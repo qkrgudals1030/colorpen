@@ -22,8 +22,15 @@ clear로 초기화
 ![image](https://github.com/qkrgudals1030/colorpen/assets/50895124/476546b2-1c59-4440-a318-57c90fede933)
 load로 불러오기
 ![image](https://github.com/qkrgudals1030/colorpen/assets/50895124/99533393-2079-44b7-86d0-4aa4bacf1bdb)
+
 추가한 내용
 ![image](https://github.com/qkrgudals1030/colorpen/assets/50895124/b66df207-6d46-44d5-a386-22672b27ef19)
 
 ![image](https://github.com/qkrgudals1030/colorpen/assets/50895124/309c9fda-c1ec-4ab3-84d6-7b9af90c42bf)
+교과서와 다른 특징으로 text버튼을 누르게 되면 위쪽에 문구가 출력되도록 만들어 보았습니다. 
+
+3. 저장 개선  
+![image](https://github.com/qkrgudals1030/colorpen/assets/50895124/4118cad3-84e1-45e1-a683-acffb223e54c)
+invalidate를 활용하여 버튼을 눌렀을때 바로바로 반영되게 하였습니다. 
+
 
