@@ -23,5 +23,7 @@ clear로 초기화
 load로 불러오기
 ![image](https://github.com/qkrgudals1030/colorpen/assets/50895124/99533393-2079-44b7-86d0-4aa4bacf1bdb)
 추가한 내용
+![image](https://github.com/qkrgudals1030/colorpen/assets/50895124/b66df207-6d46-44d5-a386-22672b27ef19)
+
 ![image](https://github.com/qkrgudals1030/colorpen/assets/50895124/309c9fda-c1ec-4ab3-84d6-7b9af90c42bf)
 
